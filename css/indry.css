@@ -20,3 +20,14 @@ footer{
 #connect{
 	color: #191970;
 }
+
+/*=============== Caraosel ================*/
+.carouselExampleIndicators .carousel-inner form{
+	position: absolute
+}
+
+/*=============== Content ================*/
+
+#konten .container .row h1{
+    padding-top: 100px;
+}
